@@ -10,6 +10,6 @@ You will need the following gems to run this:
 
 ```
 gem install sinatra;
-gem install sinatra/reloader;
+gem install sinatra-reloader;
 gem install json;
 ```
